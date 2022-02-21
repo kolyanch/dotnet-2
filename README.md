@@ -183,6 +183,7 @@
   - изменения количества денежных средств в конкретном банкомате
   
   Компонент для отображения карты: http://mapsui.com/documentation/getting-started-wpf.html
+  Сведения о банкоматах: https://github.com/itsec-labs/dotnet-2/blob/main/atm.geojson
   
   Варианты серверных технологий:  
   - OpenAPI
