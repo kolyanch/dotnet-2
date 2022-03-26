@@ -55,9 +55,11 @@
 
 **Примеры сообщений для тестирования через Postman для варианта SignalR**
 
-{"protocol":"json","version":1}
+{"protocol":"json","version":1}&#30;
 
-{"arguments":["postman", "hi"],"invocationId":"0","target":"SendMessage","type":1}
+{"arguments":["postman", "hi"],"invocationId":"0","target":"SendMessage","type":1}&#30;
+
+Символ в конце сообщение (UTF8): 0x1E
 
 ## Варианты заданий
 
