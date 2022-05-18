@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab2GisOpenApiServer</name>
+    </assembly>
+    <members>
+        <member name="M:Lab2GisOpenApiServer.Controllers.AtmStatusController.Get(System.String)">
+            <summary>
+            fsdfsd
+            </summary>
+            <param name="atmId">Идентификатор</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
